@@ -1,0 +1,8 @@
+.payments{
+    width: 30%;
+    box-shadow: 1px 1px 10px 1px rgba(32, 32, 32, 0.333);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(245, 241, 213);
+}

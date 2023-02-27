@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "payment-gateway"
+  "defaultProject": "payment-gateway",
+  "cli": {
+    "analytics": false
+  }
 }
